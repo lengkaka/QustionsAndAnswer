@@ -1,8 +1,13 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+.block {
+    width: 50%;
+    float: left;
+    min-height: 800px;
 }
 
-a {
-  color: #00B7FF;
+.block_content {
+    width: 100%!important;
+}
+
+.search_block {
+    margin-bottom: 10px!important;
 }
